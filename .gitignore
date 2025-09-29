@@ -1,6 +1,1 @@
-*
-!*.c
-!*.pdf
-!*.h
-!Makefile
-!.gitignore
+*.o
